@@ -72,13 +72,6 @@ The goal is to group customers based on purchasing behavior to support **targete
 - Personalized recommendations
 - Retail decision support
 
----
-
-## Repository Structure
-Retail-Customer-Segmentation-UCI/
-│
-├── Customer_Segmentation_UCI_Retail.ipynb
-└── README.md
 
 ---
 
